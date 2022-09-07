@@ -1,0 +1,9 @@
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.exe.config
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.exe
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.pdb
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\WebDriver.dll
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.AssemblyReference.cache
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.CoreCompileInputs.cache
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.CopyComplete
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.exe
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.pdb
